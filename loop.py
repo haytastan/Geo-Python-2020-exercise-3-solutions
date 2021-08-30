@@ -1,5 +1,6 @@
 # Dr. Hayati TAŞTAN
-# 26.08.2021
+# 30.08.2021
+
 # =================
 #Introducing the for loop
 european_cities = ['Amsterdam', 'Brussels', 'Lisbon', 'Reykjavik'] 
