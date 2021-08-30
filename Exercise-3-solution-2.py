@@ -1,7 +1,8 @@
 # Hayati TAŞTAN
 # 30.08.2021
 # ===================
-# PROBLEM: # https://github.com/geo-python-2019/Exercise-3/blob/206bf7dc1b223a8dd85e139b6eb8c5011e01b8b5/Exercise-3-problem-2.ipynb
+#SUBJECT: Classifying temperatures 
+# PROBLEM: https://github.com/geo-python-2019/Exercise-3/blob/206bf7dc1b223a8dd85e139b6eb8c5011e01b8b5/Exercise-3-problem-2.ipynb
 # SOLUTION: 
 
 temperatures = [-5.4, 1.0, -1.3, -4.8, 3.9, 0.1, -4.4, 4.0, -2.2, -3.9, 4.4,

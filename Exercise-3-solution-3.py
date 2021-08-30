@@ -74,3 +74,20 @@ print("The names of the Southwest stations are:\n", south_west)
 # This test print should print out station names in South East
 # Hint: there should be 11 stations in this class
 print("The names of the Southeast stations are:\n", south_east)
+
+# This test print should print out station names in South East
+# Hint: there should be 11 stations in this class
+print("The names of the Southeast stations are:\n", south_east)
+
+north_west_share = (len(north_west) / len(stations)) * 100
+north_east_share = (len(north_east) / len(stations)) * 100
+south_west_share = (len(south_west) / len(stations)) * 100
+south_east_share = (len(north_east) / len(stations)) * 100
+
+# Print the information 
+# .format() is a Python function that can be used to easily insert values inside a text-template such as below.
+# .0f below is a specific operator that rounds the decimal values into whole numbers
+print("Northwest contains{share: .0f} % of all stations.".format(share=north_west_share))
+print("Northeast contains{share: .0f} % of all stations.".format(share=north_east_share))
+print("Southwest contains{share: .0f} % of all stations.".format(share=south_west_share))
+print("Southeast contains{share: .0f} % of all stations.".format(share=south_east_share))
