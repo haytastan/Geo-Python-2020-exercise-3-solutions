@@ -46,8 +46,6 @@ south_east = []
 
 print("In the data, there are " + str(len(stations)) + " stations.")
 
-k=0 # index of the list "stations"
-
 for i in range(len(stations)):
     if (lats[i] > northing_cutoff and lons[i] > easting_cutoff):
         north_east.append(stations[i])
