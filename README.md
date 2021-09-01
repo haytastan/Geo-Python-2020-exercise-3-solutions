@@ -32,4 +32,3 @@ There are 3 problems and 1 optional problem in this week's exercise:
 1. [Problem 1 - Batch processing data files with a for loop (4 points)](Exercise-3-problem-1.ipynb)
 2. [Problem 2 - Classifying temperatures (8 points)](Exercise-3-problem-2.ipynb)
 3. [Problem 3 - Allocating locations (8 points)](Exercise-3-problem-3.ipynb)
-4. [Problem 4 - Nested `for` loops (*optional*, 0 points)](Exercise-3-problem-4.ipynb)

@@ -1,0 +1,6 @@
+Kurs sayfası:
+https://geo-python.github.io/site/notebooks/L3/for-loops.html
+
+Uygulama Sayfası (Kurs sayfası yukarısındaki "lanch Studender binder" düğmesi ile 
+aşağıdaki dinamik uygulama sayfasına erişilebilir.
+https://hub.gke2.mybinder.org/user/geo-python-notebooks-t41skm8q/lab
