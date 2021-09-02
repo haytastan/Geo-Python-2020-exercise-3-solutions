@@ -1,6 +1,19 @@
 Kurs sayfası:
-https://geo-python.github.io/site/notebooks/L3/for-loops.html
 
-Uygulama Sayfası (Kurs sayfası yukarısındaki "lanch Studender binder" düğmesi ile 
-aşağıdaki dinamik uygulama sayfasına erişilebilir.
-https://hub.gke2.mybinder.org/user/geo-python-notebooks-t41skm8q/lab
+Teori:
+https://geo-python.github.io/site/lessons/L3/overview.html
+
+Uygulama:
+https://geo-python.github.io/site/notebooks/L3/for-loops.html
+https://geo-python.github.io/site/notebooks/L3/conditional-statements.html
+https://geo-python.github.io/site/notebooks/L3/gcp-3-pep8.html
+
+Yukarıdaki uygulama Sayfası üst tarafındaki "lanch full binder" düğmesi ile 
+aşağıdaki dinamik uygulama sayfasına erişilebilir:
+
+https://mybinder.org/v2/gh/geo-python/site/master?urlpath=lab/tree/source/notebooks/L3/for-loops.ipynb
+
+
+Exercises:
+https://geo-python.github.io/site/lessons/L3/exercise-3.html
+https://github.com/Geo-Python-2019/Exercise-3
